@@ -1,2 +1,5 @@
 # Java_Help
-function for java 
+
+This file has most of the popular java algorithms and function that are used in daily programing. 
+
+These will also help you during coding interviews, and taking coding tests.
